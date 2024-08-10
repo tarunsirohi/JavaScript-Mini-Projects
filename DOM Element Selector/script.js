@@ -1,5 +1,3 @@
-// script.js
-
 // Select the heading using getElementById and change its text content
 const mainHeading = document.getElementById('main-heading');
 mainHeading.textContent = 'Updated Heading Text';
