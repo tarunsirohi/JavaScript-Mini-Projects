@@ -48,6 +48,3 @@ The JavaScript file performs the following actions:
 
 3. **Removing Items**:
    - Click "Remove" next to an item to delete it from the list.
-
-## License
-This project is for educational purposes and does not have a license.
