@@ -48,6 +48,3 @@ The JavaScript file performs the following actions:
 
 5. **Updating Paragraph Text in Container**:
    - All paragraphs inside the container will have their text content updated.
-
-## License
-This project is for educational purposes and does not have a license.
