@@ -1,2 +1,1 @@
-# JavaScript-Programs
-Masai School Assignments
+#JavaScript Mini Projects
